@@ -1,2 +1,2 @@
-# OnanKomputer-2
+# OnanKomputer
 Project
